@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "tsx server.js",
     "start": "node server.js",
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand --forceExit --detectOpenHandles",
-    "seed": "node seed.js"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand --forceExit --detectOpenHandles"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
