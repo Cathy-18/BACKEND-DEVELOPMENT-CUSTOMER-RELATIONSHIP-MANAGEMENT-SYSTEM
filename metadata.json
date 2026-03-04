@@ -1,0 +1,5 @@
+{
+  "name": "CRM Backend System",
+  "description": "A robust Node.js and MongoDB backend for Customer Relationship Management, featuring user authentication, customer management, and case tracking.",
+  "requestFramePermissions": []
+}
